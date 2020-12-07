@@ -9,7 +9,9 @@ function App() {
   return (
     <div>
       <AmplifySignOut />
-    My App
+    
+    
+    test
     </div>
   );
 }
